@@ -1,0 +1,6 @@
+server:
+  port: 9176
+
+spring:
+  application:
+    name: consumer
