@@ -1,0 +1,6 @@
+server:
+  port: 9177
+
+spring:
+  application:
+    name: producer
