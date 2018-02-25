@@ -68,7 +68,7 @@ public class ConsumerApplicationTests {
 
     private TransactionRequest prepareTransactionRequest() {
         TransactionRequest request = new TransactionRequest();
-        request.setAmount(10);
+        request.setAmount(1000);
         request.setSenderAccount("IND12345");
         request.setReceiverAccount("USA67890");
         request.setRemarks("For Education");
